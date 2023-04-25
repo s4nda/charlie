@@ -1,9 +1,12 @@
 black
 flask
 beautifulsoup4
+lxml
 pydantic
 python-json-logger
 pytest
 flask-cors
 requests
-
+transformers
+torch
+torchvision
