@@ -19,7 +19,7 @@ This is an API that provides question answering functionality, using machine lea
 
 To run the script, simply run the following command in your terminal:
 
-`python app.py`
+`python api/main.py`
 
 ### Tools
 
